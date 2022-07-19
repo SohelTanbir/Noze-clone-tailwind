@@ -1,0 +1,65 @@
+/*
+-----------------------------------------------------------
+----------------- Header Section Styles -----------------
+-----------------------------------------------------------
+*/
+.header{
+    width: 100%;
+    background: #ffffff;
+    border-bottom: 1px solid #ddd;
+}
+.header ul li:nth-child(1){
+    color: #54595F;
+}
+.header ul li:nth-child(2){
+    color: #b9b0e4;
+}
+.header ul li:nth-child(3){
+    color: #b9b0e4;
+}
+.header ul li:nth-child(2):hover{
+    color: #54595F;
+}
+.header ul li:nth-child(3):hover{
+    color: #54595F;
+}
+.header ul li a{
+    font-size: 15px;
+}
+.order-price{
+    font-size: 17px;
+    color: #6b5a78;
+}
+.pre-order-btn{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    background:#654a9b;
+    transition: all .5s; 
+}
+.pre-order-btn:hover{
+    background: #5B438C;
+}
+/*
+-----------------------------------------------------------
+----------------- Banner Section Styles -----------------
+-----------------------------------------------------------
+*/
+.banner-text h1{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-text p{
+    color: #6b5a78;
+    font-size: 20px;
+}
+.join-btn{
+    color: #ffffff;
+    background:#654a9b;
+    transition: all .5s; 
+}
+.join-btn:hover{
+    background: #5B438C;
+}
+.headline{
+    padding: 80px;
+    background: #F3F2F8;
+}
