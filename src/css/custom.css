@@ -59,6 +59,13 @@
 .join-btn:hover{
     background: #5B438C;
 }
+.add-to-cart{
+    color: #fff;
+    background:#654a9b;
+}
+.add-to-cart:hover{
+    background:#5B438C; ;
+}
 .headline{
     padding: 80px;
     background: #F3F2F8;
